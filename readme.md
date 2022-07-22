@@ -2,7 +2,7 @@
 
 Desc: My project uses code to detect and name faces in an image that I provided. 
 
-![add image descrition here](direct image link here)
+FULL DESCRIPTION IMAGE KINK: https://imgur.com/a/dBROcnX
 
 ## The Algorithm
 
@@ -14,5 +14,5 @@ RESULT OF THE CODE/MODEL IMAGE LINK: https://imgur.com/a/lBuipxj
 
 First step is to install and remove openCV, as that is a major library in this code. Another library that is required to install is face_recognition, which has a few pre-trained models. Because this is face recognition, you need a dataset of faces. I used three top tennis stars: Roger Federer, Rafael Nadal, and Novak Djokovic. Create a folder with all the images of the people needed. One thing before coding is to learn the different functions and uses of openCV and face_recognition. I've learned these libraries in school and in other classes before. After coding and getting the datasets, it is time to train the models. After training, you can either run a command on ssh or scp, or just run the project in the linux terminal. However, since I couldn't do headless, I used the monitor and ran it in linux. To make it simpler, another way to run it is using python3 after training. 
 
-[View a video explanation here](video link)
-EXPLANATION VIDEO LINK ON YOUTUBE: 
+EXPLANATION VIDEO LINK ON YOUTUBE: https://youtu.be/7tJNhR5cz8s
+- Video recorded via iPhone, since I did the project on the monitor.
