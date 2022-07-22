@@ -2,7 +2,7 @@
 
 Desc: My project uses code to detect and name faces in an image that I provided. 
 
-FULL DESCRIPTION IMAGE KINK: https://imgur.com/a/dBROcnX
+FULL DESCRIPTION IMAGE LINK: https://imgur.com/a/dBROcnX
 
 ## The Algorithm
 
